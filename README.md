@@ -1,5 +1,5 @@
 
-<center><img src="https://github.com/user-attachments/assets/cc7495f2-88eb-45c6-93af-0fd66731347d" width="1000" height="200" /></center>
+<center><img src="https://github.com/user-attachments/assets/cc7495f2-88eb-45c6-93af-0fd66731347d" width="800" height="200" /></center>
 
 Refresher是一个可以定期刷新服务器维度的插件 <br>
 <br>
